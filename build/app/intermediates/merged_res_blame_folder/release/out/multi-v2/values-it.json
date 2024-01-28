@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.news_app-mergeReleaseResources-11:/values-it/values-it.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Hisham Fawaz\\.gradle\\caches\\transforms-3\\3fe899f540e41da17a71dd6feb486815\\transformed\\core-1.8.0\\res\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

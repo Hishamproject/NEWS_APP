@@ -1,0 +1,16 @@
+com.example.news_app-core-1.8.0-0 C:\Users\Hisham Fawaz\.gradle\caches\transforms-3\3fe899f540e41da17a71dd6feb486815\transformed\core-1.8.0\res
+com.example.news_app-jetified-annotation-experimental-1.1.0-1 C:\Users\Hisham Fawaz\.gradle\caches\transforms-3\67d18e2b23ce6f6133903a1b23f3c2a0\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.news_app-jetified-window-1.0.0-beta04-2 C:\Users\Hisham Fawaz\.gradle\caches\transforms-3\72a52ecceff740dd286ea2f072b84e6f\transformed\jetified-window-1.0.0-beta04\res
+com.example.news_app-lifecycle-runtime-2.3.1-3 C:\Users\Hisham Fawaz\.gradle\caches\transforms-3\b70aeeca456b772a252db8521662fd20\transformed\lifecycle-runtime-2.3.1\res
+com.example.news_app-jetified-core-ktx-1.8.0-4 C:\Users\Hisham Fawaz\.gradle\caches\transforms-3\e03ad85a657309f0feb0f70d10254fe8\transformed\jetified-core-ktx-1.8.0\res
+com.example.news_app-jetified-window-java-1.0.0-beta04-5 C:\Users\Hisham Fawaz\.gradle\caches\transforms-3\f805ca68335f6a1f386399cde6392531\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.news_app-main-6 C:\Users\Hisham Fawaz\AndroidStudioProjects\NEWS_APP\android\app\src\main\res
+com.example.news_app-release-7 C:\Users\Hisham Fawaz\AndroidStudioProjects\NEWS_APP\android\app\src\release\res
+com.example.news_app-pngs-8 C:\Users\Hisham Fawaz\AndroidStudioProjects\NEWS_APP\build\app\generated\res\pngs\release
+com.example.news_app-resValues-9 C:\Users\Hisham Fawaz\AndroidStudioProjects\NEWS_APP\build\app\generated\res\resValues\release
+com.example.news_app-rs-10 C:\Users\Hisham Fawaz\AndroidStudioProjects\NEWS_APP\build\app\generated\res\rs\release
+com.example.news_app-mergeReleaseResources-11 C:\Users\Hisham Fawaz\AndroidStudioProjects\NEWS_APP\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.news_app-mergeReleaseResources-12 C:\Users\Hisham Fawaz\AndroidStudioProjects\NEWS_APP\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.news_app-merged_res-13 C:\Users\Hisham Fawaz\AndroidStudioProjects\NEWS_APP\build\app\intermediates\merged_res\release
+com.example.news_app-packaged_res-14 C:\Users\Hisham Fawaz\AndroidStudioProjects\NEWS_APP\build\flutter_tts\intermediates\packaged_res\release
+com.example.news_app-packaged_res-15 C:\Users\Hisham Fawaz\AndroidStudioProjects\NEWS_APP\build\fluttertoast\intermediates\packaged_res\release

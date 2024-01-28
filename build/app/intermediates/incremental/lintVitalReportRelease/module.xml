@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\Hisham Fawaz\AndroidStudioProjects\NEWS_APP\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.4.2"
+    buildFolder="C:\Users\Hisham Fawaz\AndroidStudioProjects\NEWS_APP\build\app"
+    bootClassPath="C:\Users\Hisham Fawaz\AppData\Local\Android\sdk\platforms\android-33\android.jar;C:\Users\Hisham Fawaz\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
